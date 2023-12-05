@@ -15,6 +15,13 @@
 // 23-May-22  M. Watler         Created.
 // 27-May-22  M. Watler         Added graphical display.
 
+/*
+ *Assignment 1
+ *Tanishk Singh Bisht (156476210)
+ *Fawaz Faruk Sapa (161792213)
+*/
+
+
 #include <iostream>
 #include "AnalogCircuit.h"
 
